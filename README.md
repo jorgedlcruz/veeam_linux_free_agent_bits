@@ -13,10 +13,10 @@ Product demos | [Register now](https://www.veeam.com/product-demo.html)
 
 ----------
 
-### Product download v1.0
+### Product download v1.0.1
 | OS version     | 32bits | 64 bits |
 | :------- | ----: | :---: |
-Debian/Ubuntu/Mint | [x32](https://download2.veeam.com/veeam-release-deb_1.0_i386.deb) | [x64](https://download2.veeam.com/veeam-release-deb_1.0_amd64.deb) |
+Debian/Ubuntu/Mint | [x32](https://download2.veeam.com/veeam-release-deb_1.0.1_i386.deb) | [x64](https://download2.veeam.com/veeam-release-deb_1.0.1_amd64.deb) |
 CentOS/RHEL/Oracle Linux 7 | [x32](https://download2.veeam.com/veeam-release-el7-1.0-1.i386.rpm) | [x64](https://download2.veeam.com/veeam-release-el7-1.0-1.x86_64.rpm) |
 CentOS/RHEL/Oracle Linux 6 | [x32](https://download2.veeam.com/veeam-release-el6-1.0-1.i386.rpm) | [x64](https://download2.veeam.com/veeam-release-el6-1.0-1.x86_64.rpm) |
 SUSE | [x32](https://download2.veeam.com/veeam-release-suse-1.0-1.i386.rpm) | [x64](https://download2.veeam.com/veeam-release-suse-1.0-1.x86_64.rpm) |
